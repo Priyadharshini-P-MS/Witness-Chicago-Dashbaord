@@ -1,0 +1,6 @@
+id,article_id,title,date_published,source,url,text_excerpt,emotion
+1,A1,ICE Raid in Chicago Neighborhood,2019-03-12,WBEZ Chicago,https://example.com/a1,Officers banging on doors,fear
+2,A2,Community Reacts to Immigration Enforcement,2020-07-22,Block Club Chicago,https://example.com/a2,Residents shocked,surprise
+3,A3,Family Separated During Raid,2018-11-05,The Chicago Reporter,https://example.com/a3,Crying kids,sadness
+4,A4,Witness Describes ICE Operation,2021-02-14,ProPublica Illinois,https://example.com/a4,Loud yelling,anger
+5,A5,ICE and Community Tension,2017-09-30,Injustice Watch,https://example.com/a5,Fear spreading,fear
